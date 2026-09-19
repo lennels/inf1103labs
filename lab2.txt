@@ -1,0 +1,6 @@
+PS C:\Users\USER\OneDrive\Documents\School\SIT\Year 1 Tri 1\INF1103 Introduction to DevOps\Week 2> git log
+commit dc8a7a588d744c5f7f0cead792e909e46b74aad0 (HEAD -> main, origin/main)
+Author: Lennel Sng <2601908@sit.singaporetech.edu.sg>
+Date:   Fri Sep 11 15:06:22 2026 +0800
+
+    first commit
